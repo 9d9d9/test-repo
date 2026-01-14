@@ -1,0 +1,3 @@
+Hello GitHub.
+
+This repository is used for a basic test commit.
